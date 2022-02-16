@@ -92,5 +92,5 @@ static struct rpmsg_driver rpmsg_sample_client = {
 };
 module_rpmsg_driver(rpmsg_sample_client);
 
-MODULE_DESCRIPTION("Remote processor messaging sample client driver");
+MODULE_DESCRIPTION("remote processor messaging sample client driver");
 MODULE_LICENSE("GPL v2");
